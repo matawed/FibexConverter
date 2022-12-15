@@ -24,7 +24,7 @@ import time
 import os.path
 import argparse
 
-from parser import *  # @UnusedWildImport
+from parser_general import *  # @UnusedWildImport
 from configuration_base_classes import *  # @UnusedWildImport
 
 
